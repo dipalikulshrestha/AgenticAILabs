@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6e469c80-c83d-46c1-a70f-15013bfb5968",
+    "date": "2025-08-16 11:00",
+    "location": "online",
+    "title": "strands demo",
+    "description": "ug mdu event"
+  },
+  {
+    "id": "2df7a401-c380-48f7-aba6-990eaaa5ef66",
+    "date": "2025-08-16 05:15",
+    "location": "online",
+    "title": "strands circus",
+    "description": "hello"
+  },
+  {
+    "id": "8030e7ad-b844-40bb-b7f1-6b7df94b45e3",
+    "date": "2025-08-16 05:18",
+    "location": "demo",
+    "title": "demo",
+    "description": "Demo appointment"
+  },
+  {
+    "id": "95f01508-3b43-4882-9222-ca7cff9c3e06",
+    "date": "2025-08-18 11:00",
+    "location": "Not specified",
+    "title": "advanced-strands-evnt",
+    "description": "Sunday appointment for advanced-strands-evnt"
+  },
+  {
+    "id": "42b2cda5-af0c-4c39-95ef-f4640d35decf",
+    "date": "2026-04-26 11:00",
+    "location": "Benett",
+    "title": "Advanced agentic concepts",
+    "description": "Advanced agentic concepts"
+  }
+]

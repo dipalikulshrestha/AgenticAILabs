@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6e469c80-c83d-46c1-a70f-15013bfb5968",
+    "date": "2025-08-16 11:00",
+    "location": "online",
+    "title": "strands demo",
+    "description": "ug mdu event"
+  },
+  {
+    "id": "7da60d6c-a736-4b28-9926-df892f829029",
+    "date": "2025-09-05 11:00",
+    "location": "Madurai",
+    "title": "hands-on challenge",
+    "description": "This is for agent challenge with the user group Madurai."
+  },
+  {
+    "id": "3322023b-2621-42ae-b883-d34a93ff76cb",
+    "date": "2025-09-05 20:30",
+    "location": "Bengaluru",
+    "title": "ML summer school",
+    "description": "delivering a session on agents"
+  },
+  {
+    "id": "1f60c88c-f911-44c9-b921-a7ceeb4525e8",
+    "date": "2026-04-23 11:00",
+    "location": "Bennett Univ",
+    "title": "Hands on challenge for agentic AI",
+    "description": "Hands on challenge for agentic AI"
+  }
+]

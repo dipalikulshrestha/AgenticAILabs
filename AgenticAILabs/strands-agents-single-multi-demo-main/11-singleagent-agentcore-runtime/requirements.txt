@@ -1,0 +1,9 @@
+strands-agents
+strands-agents-tools
+strands-agents-tools[rss]
+strands-agents-builder
+boto3
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+feedparser
+boto3
