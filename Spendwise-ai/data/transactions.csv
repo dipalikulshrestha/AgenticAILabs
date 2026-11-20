@@ -1,0 +1,51 @@
+transaction_date,description,category,amount,type
+2026-09-01,Monthly Salary,Income,95000,income
+2026-09-02,House Rent,Housing,22000,expense
+2026-09-03,FreshMart Groceries,Groceries,4700,expense
+2026-09-04,Metro Card Recharge,Transport,1200,expense
+2026-09-05,StreamFlix Monthly,Subscriptions,699,expense
+2026-09-06,Cafe Mocha,Food,1250,expense
+2026-09-07,FashionHub,Shopping,5200,expense
+2026-09-08,QuickCab Ride,Transport,720,expense
+2026-09-09,FreshMart Groceries,Groceries,3900,expense
+2026-09-10,LunchBox Delivery,Food,980,expense
+2026-09-11,Electricity Bill,Utilities,1950,expense
+2026-09-12,Restaurant Olive,Food,2400,expense
+2026-09-13,QuickCab Ride,Transport,650,expense
+2026-09-14,Home Essentials,Shopping,2800,expense
+2026-09-15,FreshMart Groceries,Groceries,4400,expense
+2026-09-16,Mobile Recharge,Utilities,799,expense
+2026-09-17,LunchBox Delivery,Food,1100,expense
+2026-09-18,QuickCab Ride,Transport,850,expense
+2026-09-19,MusicPlus,Subscriptions,149,expense
+2026-09-20,Restaurant Olive,Food,1900,expense
+2026-09-21,FashionHub,Shopping,400,expense
+2026-09-22,FreshMart Groceries,Groceries,3800,expense
+2026-09-23,Internet Bill,Utilities,999,expense
+2026-09-24,QuickCab Ride,Transport,780,expense
+2026-09-25,LunchBox Delivery,Food,920,expense
+2026-09-26,Restaurant Olive,Food,1650,expense
+2026-09-27,Home Essentials,Shopping,2150,expense
+2026-09-28,FreshMart Groceries,Groceries,4250,expense
+2026-09-29,QuickCab Ride,Transport,690,expense
+2026-09-30,StreamFlix Monthly,Subscriptions,699,expense
+2026-09-31,Monthly Salary,Income,95000,income
+2026-09-31,FashionHub,Shopping,3700,expense
+2026-10-01,Monthly Salary,Income,95000,income
+2026-10-02,House Rent,Housing,22000,expense
+2026-10-03,FreshMart Groceries,Groceries,3600,expense
+2026-10-04,Metro Card Recharge,Transport,1200,expense
+2026-10-05,StreamFlix Monthly,Subscriptions,699,expense
+2026-10-06,Cafe Mocha,Food,850,expense
+2026-10-07,Electricity Bill,Utilities,1850,expense
+2026-10-08,QuickCab Ride,Transport,480,expense
+2026-10-10,FreshMart Groceries,Groceries,2950,expense
+2026-10-11,LunchBox Delivery,Food,620,expense
+2026-10-12,Mobile Recharge,Utilities,799,expense
+2026-10-13,QuickCab Ride,Transport,550,expense
+2026-10-14,MusicPlus,Subscriptions,149,expense
+2026-10-15,Restaurant Olive,Food,1850,expense
+2026-10-16,Home Essentials,Shopping,1750,expense
+2026-10-18,FreshMart Groceries,Groceries,4100,expense
+2026-10-19,LunchBox Delivery,Food,740,expense
+2026-10-20,Internet Bill,Utilities,999,expense
