@@ -1,0 +1,5 @@
+strands-agents
+streamlit
+pandas
+plotly
+boto3
